@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="c_cecece">#cecece</color>
+    <color name="black">#000000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="fab_bg">#FF4081</color>
+    <color name="c_636363">#636363</color>
+    <color name="c_e7e7e7">#e7e7e7</color>
+</resources>

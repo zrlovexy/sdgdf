@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GeekNews</string>
+    <string name="login">登录</string>
+    <string name="info">资讯</string>
+    <string name="zhihu">知乎日报</string>
+    <string name="options">选项</string>
+    <string name="wechat">微信精选</string>
+    <string name="gank">干货集中营</string>
+    <string name="gold">稀土掘金</string>
+    <string name="v2ex">V2EX</string>
+    <string name="collect">收藏</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="dailyNews">日报</string>
+    <string name="hot">热门</string>
+    <string name="sections">专栏</string>
+
+    <string name="special_show">首页特别展示</string>
+
+
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+
+    <string-array name="custom_myweekdays">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
